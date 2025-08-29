@@ -4,7 +4,7 @@ FastAPI CRUD Application
 
 ## Установка
 ###  Клонирование репозитория
-- git clone git@github.com:VladislavDobr/Task-Manager.git
+- git clone [git@github.com:VladislavDobr/Task-Manager.git](https://github.com/VladislavDobr/Task-Manager.git)
 
 ###  Установка зависимостей
 - pip install -r requirements.txt
